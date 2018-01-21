@@ -1,2 +1,3 @@
 # Hello-World
-The first project
+This is the first project
+Miranda here.
